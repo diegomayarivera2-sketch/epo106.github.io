@@ -18,12 +18,11 @@ header{
 .nav{
     background-color:rgb(0,0,0);
     display:grid;
-    grid-template-columns:repeat(5, 1fr);
+    grid-template-columns:repeat(4, 1fr);
     color:rgb(255,255,255);
     font-size:2em;
 }
 main{
-    flex:4;
     background-color:rgb(165,230,166);
 }
 aside{
